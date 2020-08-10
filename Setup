@@ -1,0 +1,5 @@
+dotnet --info
+dotnet new webapi -n DatingApp.API
+open VS Code (code .)
+add C# extenstion
+ctrl+shift+p = command palette
